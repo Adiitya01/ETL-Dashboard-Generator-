@@ -1,0 +1,201 @@
+review_id,product,review_text,rating,date
+R-3913,Smartwatch,"Poor battery life, disappointed.",4,2025-11-18
+R-3133,Smartwatch,Overpriced for what it offers.,4,2026-01-08
+R-4654,Smartphone,The screen is amazing but it's a bit heavy.,1,2025-12-11
+R-8331,Tablet,Best purchase of the year!,5,2025-12-28
+R-2638,Laptop,Decent performance for the price.,5,2026-01-08
+R-8327,Laptop,Decent performance for the price.,2,2025-12-04
+R-9490,Headphones,Decent performance for the price.,5,2026-01-17
+R-2318,Laptop,Decent performance for the price.,3,2025-11-16
+R-4459,Tablet,"Poor battery life, disappointed.",4,2025-10-23
+R-9541,Tablet,"Value for money, highly recommended.",1,2025-12-30
+R-3075,Smartwatch,"Value for money, highly recommended.",4,2025-10-13
+R-4637,Tablet,"Excellent product, very fast!",2,2025-11-22
+R-8778,Smartwatch,Sleek design and great features.,2,2025-11-11
+R-6359,Smartwatch,"Customer support was unhelpful, but the product is okay.",2,2025-10-28
+R-8507,Smartwatch,"Customer support was unhelpful, but the product is okay.",3,2025-12-08
+R-5202,Headphones,Sleek design and great features.,2,2025-11-09
+R-6020,Tablet,Stopped working after two days. Terrible experience.,1,2025-12-22
+R-8939,Smartwatch,Best purchase of the year!,2,2026-01-10
+R-5274,Tablet,Decent performance for the price.,5,2026-01-07
+R-5895,Headphones,The screen is amazing but it's a bit heavy.,4,2025-10-22
+R-1002,Smartphone,"Excellent product, very fast!",1,2026-01-05
+R-6514,Smartwatch,The screen is amazing but it's a bit heavy.,3,2025-12-08
+R-2743,Laptop,Decent performance for the price.,2,2025-10-15
+R-3559,Laptop,The screen is amazing but it's a bit heavy.,3,2025-11-16
+R-4521,Smartphone,Overpriced for what it offers.,2,2025-12-06
+R-5737,Smartphone,"Poor battery life, disappointed.",3,2026-01-16
+R-8698,Smartwatch,"Customer support was unhelpful, but the product is okay.",1,2025-11-22
+R-9756,Tablet,Sleek design and great features.,5,2025-11-13
+R-5283,Smartwatch,Decent performance for the price.,1,2025-10-26
+R-9265,Smartphone,The screen is amazing but it's a bit heavy.,2,2025-12-12
+R-2135,Tablet,"Poor battery life, disappointed.",3,2026-01-18
+R-2137,Smartphone,"Customer support was unhelpful, but the product is okay.",3,2025-11-12
+R-3241,Smartwatch,Best purchase of the year!,3,2025-12-08
+R-8052,Laptop,Sleek design and great features.,5,2026-01-09
+R-8743,Smartwatch,Sleek design and great features.,5,2025-11-18
+R-7423,Tablet,"Excellent product, very fast!",4,2025-12-13
+R-1689,Headphones,"Poor battery life, disappointed.",3,2025-11-17
+R-6701,Laptop,Stopped working after two days. Terrible experience.,5,2025-11-10
+R-8904,Smartphone,Overpriced for what it offers.,4,2025-11-02
+R-3454,Smartphone,"Value for money, highly recommended.",4,2025-12-26
+R-3484,Smartwatch,"Excellent product, very fast!",4,2026-01-01
+R-7417,Smartwatch,"Poor battery life, disappointed.",2,2025-10-21
+R-7650,Smartphone,Decent performance for the price.,1,2026-01-07
+R-3503,Smartwatch,"Poor battery life, disappointed.",4,2025-11-29
+R-6247,Tablet,Sleek design and great features.,1,2026-01-05
+R-1975,Tablet,The screen is amazing but it's a bit heavy.,3,2025-10-16
+R-7467,Laptop,"Poor battery life, disappointed.",1,2025-10-22
+R-6809,Smartwatch,Stopped working after two days. Terrible experience.,5,2025-10-19
+R-3007,Smartwatch,"Customer support was unhelpful, but the product is okay.",4,2025-11-22
+R-4770,Tablet,Stopped working after two days. Terrible experience.,5,2025-11-16
+R-7876,Smartphone,"Value for money, highly recommended.",3,2025-11-06
+R-2332,Laptop,Best purchase of the year!,3,2025-12-12
+R-5995,Headphones,"Excellent product, very fast!",4,2025-11-06
+R-2791,Smartwatch,"Value for money, highly recommended.",2,2025-12-16
+R-3466,Tablet,Stopped working after two days. Terrible experience.,3,2025-11-27
+R-7551,Tablet,The screen is amazing but it's a bit heavy.,4,2026-01-06
+R-1335,Laptop,Decent performance for the price.,1,2025-12-15
+R-6116,Headphones,Stopped working after two days. Terrible experience.,1,2025-11-23
+R-6853,Smartwatch,"Excellent product, very fast!",3,2025-10-12
+R-2073,Smartphone,"Customer support was unhelpful, but the product is okay.",1,2025-11-20
+R-7227,Headphones,"Excellent product, very fast!",2,2025-12-06
+R-1655,Tablet,"Customer support was unhelpful, but the product is okay.",5,2026-01-18
+R-5562,Laptop,Overpriced for what it offers.,1,2025-12-24
+R-6873,Headphones,Decent performance for the price.,4,2025-10-15
+R-9515,Smartwatch,"Excellent product, very fast!",1,2025-12-30
+R-3732,Headphones,The screen is amazing but it's a bit heavy.,3,2025-10-26
+R-3316,Headphones,Overpriced for what it offers.,1,2025-11-24
+R-5944,Smartphone,Best purchase of the year!,5,2025-12-07
+R-2759,Tablet,"Value for money, highly recommended.",3,2025-11-14
+R-4386,Smartwatch,Decent performance for the price.,5,2025-11-22
+R-7047,Headphones,"Customer support was unhelpful, but the product is okay.",4,2025-11-03
+R-3184,Smartphone,The screen is amazing but it's a bit heavy.,5,2025-10-31
+R-8325,Laptop,"Customer support was unhelpful, but the product is okay.",4,2025-11-09
+R-5028,Headphones,Stopped working after two days. Terrible experience.,4,2025-12-04
+R-5325,Laptop,Sleek design and great features.,5,2025-11-15
+R-2176,Tablet,Sleek design and great features.,1,2025-12-03
+R-2506,Smartwatch,"Excellent product, very fast!",3,2025-12-24
+R-2848,Smartphone,"Poor battery life, disappointed.",3,2025-12-29
+R-9496,Smartphone,Best purchase of the year!,4,2025-12-27
+R-1063,Headphones,"Customer support was unhelpful, but the product is okay.",4,2025-11-01
+R-8850,Laptop,Stopped working after two days. Terrible experience.,4,2025-11-29
+R-2406,Laptop,Overpriced for what it offers.,1,2026-01-16
+R-7777,Tablet,"Value for money, highly recommended.",2,2025-11-29
+R-8224,Tablet,Best purchase of the year!,5,2025-11-02
+R-9018,Smartwatch,Stopped working after two days. Terrible experience.,3,2025-10-18
+R-5140,Smartwatch,"Excellent product, very fast!",4,2026-01-08
+R-5733,Headphones,Best purchase of the year!,2,2026-01-01
+R-2072,Laptop,Overpriced for what it offers.,1,2025-12-20
+R-8580,Smartphone,Best purchase of the year!,3,2025-11-03
+R-1614,Headphones,Sleek design and great features.,4,2026-01-11
+R-1178,Laptop,Best purchase of the year!,5,2025-10-24
+R-2945,Laptop,"Value for money, highly recommended.",1,2025-12-04
+R-8971,Laptop,Overpriced for what it offers.,1,2025-11-29
+R-9645,Smartwatch,Sleek design and great features.,4,2025-12-05
+R-5435,Headphones,"Value for money, highly recommended.",5,2026-01-02
+R-4717,Headphones,"Customer support was unhelpful, but the product is okay.",5,2025-12-23
+R-1080,Smartwatch,"Customer support was unhelpful, but the product is okay.",1,2025-10-27
+R-1019,Headphones,Stopped working after two days. Terrible experience.,2,2025-12-02
+R-5121,Smartphone,Sleek design and great features.,3,2025-10-16
+R-4094,Headphones,Sleek design and great features.,3,2025-11-26
+R-7152,Tablet,Sleek design and great features.,5,2025-12-07
+R-2203,Laptop,"Poor battery life, disappointed.",4,2026-01-12
+R-3340,Laptop,Overpriced for what it offers.,3,2025-10-24
+R-3585,Laptop,Best purchase of the year!,5,2025-11-14
+R-6777,Laptop,Best purchase of the year!,1,2025-10-17
+R-5180,Smartphone,Decent performance for the price.,2,2025-10-23
+R-1638,Tablet,The screen is amazing but it's a bit heavy.,4,2025-12-30
+R-8569,Smartwatch,Sleek design and great features.,2,2025-12-21
+R-2854,Smartwatch,Decent performance for the price.,1,2025-11-20
+R-1929,Smartwatch,Sleek design and great features.,3,2025-11-27
+R-1897,Laptop,"Excellent product, very fast!",1,2025-12-22
+R-6484,Tablet,Sleek design and great features.,5,2025-11-03
+R-2916,Headphones,Sleek design and great features.,1,2025-12-05
+R-6834,Smartphone,Decent performance for the price.,3,2025-11-03
+R-3694,Laptop,Decent performance for the price.,4,2025-10-13
+R-8617,Headphones,Best purchase of the year!,4,2026-01-10
+R-7143,Smartwatch,"Value for money, highly recommended.",1,2026-01-18
+R-4025,Tablet,Overpriced for what it offers.,5,2026-01-08
+R-9522,Tablet,Decent performance for the price.,2,2025-12-21
+R-6051,Smartwatch,Decent performance for the price.,1,2025-10-11
+R-3143,Smartwatch,"Excellent product, very fast!",5,2025-10-17
+R-1067,Headphones,"Customer support was unhelpful, but the product is okay.",3,2025-12-07
+R-1010,Headphones,Sleek design and great features.,4,2025-12-08
+R-1772,Headphones,Decent performance for the price.,4,2025-11-22
+R-9619,Headphones,Overpriced for what it offers.,2,2025-10-21
+R-2109,Smartphone,The screen is amazing but it's a bit heavy.,2,2025-12-29
+R-7485,Smartphone,The screen is amazing but it's a bit heavy.,4,2025-12-09
+R-4517,Smartwatch,"Poor battery life, disappointed.",3,2025-12-28
+R-5524,Smartphone,"Value for money, highly recommended.",2,2025-11-03
+R-1520,Headphones,Best purchase of the year!,2,2025-12-03
+R-1258,Smartwatch,The screen is amazing but it's a bit heavy.,4,2025-10-28
+R-5993,Smartwatch,Decent performance for the price.,1,2025-10-19
+R-5955,Smartwatch,Decent performance for the price.,5,2025-11-21
+R-3621,Smartwatch,Best purchase of the year!,3,2026-01-16
+R-4970,Tablet,Overpriced for what it offers.,2,2025-10-21
+R-6786,Tablet,Sleek design and great features.,3,2025-11-26
+R-6461,Headphones,Overpriced for what it offers.,1,2026-01-07
+R-6571,Tablet,Overpriced for what it offers.,3,2025-11-18
+R-2899,Tablet,"Value for money, highly recommended.",2,2025-10-30
+R-2959,Smartphone,"Poor battery life, disappointed.",2,2025-10-30
+R-4354,Smartphone,"Value for money, highly recommended.",2,2025-10-31
+R-9838,Tablet,"Customer support was unhelpful, but the product is okay.",4,2025-12-20
+R-1592,Laptop,Best purchase of the year!,5,2025-10-18
+R-1419,Tablet,Overpriced for what it offers.,2,2025-11-04
+R-5630,Smartwatch,Sleek design and great features.,1,2025-11-06
+R-5202,Headphones,Overpriced for what it offers.,5,2026-01-15
+R-9068,Headphones,The screen is amazing but it's a bit heavy.,5,2025-12-26
+R-5378,Headphones,Overpriced for what it offers.,5,2025-10-16
+R-8282,Laptop,"Poor battery life, disappointed.",1,2025-10-16
+R-6840,Laptop,Sleek design and great features.,1,2025-11-25
+R-9954,Smartwatch,"Excellent product, very fast!",3,2025-10-11
+R-4314,Smartphone,The screen is amazing but it's a bit heavy.,3,2025-12-26
+R-3120,Smartphone,"Excellent product, very fast!",1,2025-11-02
+R-5936,Tablet,Sleek design and great features.,3,2025-12-08
+R-7648,Smartwatch,The screen is amazing but it's a bit heavy.,3,2025-12-01
+R-3467,Smartphone,"Customer support was unhelpful, but the product is okay.",1,2025-10-28
+R-2195,Smartphone,Sleek design and great features.,5,2026-01-07
+R-6854,Tablet,"Customer support was unhelpful, but the product is okay.",4,2026-01-04
+R-2391,Tablet,Sleek design and great features.,2,2026-01-17
+R-2328,Headphones,Decent performance for the price.,1,2025-11-08
+R-7397,Smartwatch,"Excellent product, very fast!",3,2025-11-24
+R-5831,Smartwatch,"Value for money, highly recommended.",4,2025-12-26
+R-4608,Headphones,"Poor battery life, disappointed.",2,2025-11-01
+R-3166,Smartphone,"Customer support was unhelpful, but the product is okay.",2,2026-01-16
+R-5027,Laptop,Overpriced for what it offers.,5,2025-12-23
+R-8735,Smartphone,"Value for money, highly recommended.",5,2025-12-31
+R-3759,Smartphone,"Customer support was unhelpful, but the product is okay.",4,2025-11-22
+R-3587,Smartwatch,Stopped working after two days. Terrible experience.,3,2025-11-23
+R-1927,Laptop,Sleek design and great features.,1,2025-10-15
+R-2975,Laptop,Decent performance for the price.,3,2026-01-06
+R-8985,Headphones,Best purchase of the year!,2,2025-10-11
+R-1290,Laptop,Stopped working after two days. Terrible experience.,2,2025-11-08
+R-1129,Tablet,Decent performance for the price.,4,2025-11-24
+R-1727,Smartwatch,"Value for money, highly recommended.",5,2025-11-03
+R-3111,Laptop,Best purchase of the year!,4,2025-10-30
+R-2975,Smartwatch,The screen is amazing but it's a bit heavy.,5,2025-12-11
+R-2782,Smartwatch,The screen is amazing but it's a bit heavy.,4,2025-11-26
+R-1541,Smartphone,"Poor battery life, disappointed.",4,2026-01-11
+R-9207,Tablet,"Excellent product, very fast!",3,2025-11-29
+R-9867,Headphones,The screen is amazing but it's a bit heavy.,1,2025-10-24
+R-5937,Smartwatch,Stopped working after two days. Terrible experience.,4,2026-01-08
+R-8336,Headphones,Stopped working after two days. Terrible experience.,2,2025-11-24
+R-5027,Laptop,Sleek design and great features.,4,2025-12-09
+R-3098,Headphones,"Customer support was unhelpful, but the product is okay.",3,2026-01-11
+R-5862,Smartphone,Best purchase of the year!,1,2025-11-16
+R-9413,Headphones,Stopped working after two days. Terrible experience.,2,2026-01-11
+R-8972,Smartwatch,Stopped working after two days. Terrible experience.,1,2025-12-20
+R-6957,Headphones,Overpriced for what it offers.,2,2025-11-03
+R-2528,Headphones,Stopped working after two days. Terrible experience.,1,2025-10-27
+R-6353,Headphones,The screen is amazing but it's a bit heavy.,3,2026-01-08
+R-3003,Smartphone,Stopped working after two days. Terrible experience.,1,2025-12-21
+R-9175,Tablet,"Value for money, highly recommended.",5,2025-12-03
+R-7092,Smartwatch,Stopped working after two days. Terrible experience.,1,2026-01-04
+R-8228,Laptop,Sleek design and great features.,1,2025-12-22
+R-1229,Laptop,Best purchase of the year!,3,2025-10-19
+R-8576,Smartwatch,"Poor battery life, disappointed.",5,2025-11-30
+R-4861,Laptop,"Excellent product, very fast!",1,2026-01-15
+R-1396,Smartphone,Decent performance for the price.,3,2025-12-25
+R-1493,Headphones,Best purchase of the year!,2,2025-12-06
+R-1948,Tablet,Best purchase of the year!,1,2025-12-14
