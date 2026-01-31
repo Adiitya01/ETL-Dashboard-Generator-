@@ -1,6 +1,6 @@
 # ETL & GenAI Business Dashboard
 
-A premium, result-driven business dashboard powered by an ETL pipeline and Google Gemini 1.5 Flash for strategic insights.
+A premium, result-driven business dashboard powered by an ETL pipeline and Google Gemini for strategic insights.
 
 ## 🚀 Features
 - **Automated ETL Pipeline**: Processes raw sales and review data into actionable business metrics.
