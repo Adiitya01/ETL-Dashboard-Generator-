@@ -10,7 +10,7 @@ A premium, result-driven business dashboard powered by an ETL pipeline and Googl
 
 ## 🛠️ Tech Stack
 - **Backend**: FastAPI (Python), Pandas, SQLite, SQLAlchemy.
-- **Frontend**: Next.js 14+ (App Router), TypeScript, Framer Motion, Lucide Icons, Recharts.
+- **Frontend**: Next.js 14+ (App Router), TypeScript, Framer Motion, Recharts.
 - **GenAI**: Google Generative AI (Gemini 1.5 Flash).
 
 ## 🏃‍♂️ How to Run
