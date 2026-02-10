@@ -41,7 +41,7 @@ cd frontend
 npm install
 npm run dev
 ```
-The dashboard will be available at `http://localhost:3000`.
+
 
 ## 📁 Project Structure
 - `data/`: Contains raw CSVs and the processed SQLite database.
